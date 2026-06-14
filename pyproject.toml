@@ -1,0 +1,18 @@
+[project]
+name = "market-regime-detector"
+version = "0.1.0"
+description = "Educational market regime detection project with rules, KMeans, GMM, and HMM options."
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.26",
+  "pandas>=2.0",
+  "scikit-learn>=1.4",
+  "plotly>=5.20",
+  "yfinance>=0.2.40",
+  "streamlit>=1.35",
+  "hmmlearn>=0.3.3",
+  "pytest>=8.0",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

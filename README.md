@@ -13,15 +13,13 @@ Built by San Kaneskan as a portfolio project exploring machine learning, applied
 Deployed app:
 
 ```text
-link
+https://san-market.streamlit.app/
 ```
 
 
 ---
 
 ## Screenshots
-
-Add screenshots of the app here.
 
 ### Dashboard
 
@@ -438,24 +436,13 @@ The tests check that the main pipeline works on synthetic data.
 
 ---
 
-## Deployment Notes
-
-This project can be deployed on Streamlit Community Cloud.
-
-Before deploying, make sure the repository includes:
-
-```text
-requirements.txt
-app/streamlit_app.py
-market_regime_detector/
-```
 
 Streamlit will install the dependencies from `requirements.txt`.
 
 Deployment link placeholder:
 
 ```text
-Add deployed Streamlit link here
+https://san-market.streamlit.app/
 ```
 
 ---

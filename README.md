@@ -12,7 +12,7 @@ Built by **San Kaneskan** as a portfolio project exploring machine learning, app
 
 Try the deployed app here:
 
-https://san-market.streamlit.app/
+https://san-market-regime.streamlit.app/
 
 ---
 
